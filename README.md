@@ -1,0 +1,2 @@
+# Artificial-Assistant
+We all know the artificial assistants from google/apple/amazon, but as you maybe experienced you can barely personalize them, for example giving them names or a specific voice . My Idea is to allow the assistant to have a whole personality! Of course it'll still listen to your commands, it just gives an individual reactions based on their character.  Thank you for investing your time reading this, I'll be more than happy to receive help on this project!
